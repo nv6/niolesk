@@ -9,6 +9,9 @@ Requirements:
 - yarn
 - git
 
+> [!TIP]
+> If you have mise installed, run `mise install` to automatically install yarn and the latest node 16.
+
 Note: `node` version 17 has issues when compiling the site, so you should use node LTS which is `node` 16
 
 Get the sources:
